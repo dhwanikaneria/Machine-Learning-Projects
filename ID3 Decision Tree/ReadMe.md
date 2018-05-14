@@ -45,10 +45,10 @@ O/P Order::
 4)Post-Pruned Accuracy
 
 OutPut:
-[OutPut for Dataset1]()
-[OutPut for Dataset2]()
+[OutPut for Dataset1](https://github.com/dhwanikaneria/Machine-Learning-Projects/blob/master/ID3%20Decision%20Tree/Output1.txt)
+[OutPut for Dataset2](https://github.com/dhwanikaneria/Machine-Learning-Projects/blob/master/ID3%20Decision%20Tree/Output2.txt)
 
 
 DataSets:
-[Data Set1]()
-[Dataset2]()
+[Data Set1](https://github.com/dhwanikaneria/Machine-Learning-Projects/tree/master/ID3%20Decision%20Tree/data_sets1)
+[Data set2](https://github.com/dhwanikaneria/Machine-Learning-Projects/tree/master/ID3%20Decision%20Tree/data_sets2)
