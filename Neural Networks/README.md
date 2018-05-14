@@ -75,9 +75,16 @@ For every layer (excluding output) it will print
 1)	The Layer numbers
 2)	Weights of every neurons in that layer
 3)	Weight of the bias in that layer (shown in last element of every layer.)
+
+
+
+
 DataSets:
+
 [Iris Data]( https://archive.ics.uci.edu/ml/datasets/Iris)
+
 [Car Data](https://archive.ics.uci.edu/ml/datasets/Car+Evaluation)
+
 [Adult Data]( https://archive.ics.uci.edu/ml/datasets/Census+Income)
 
 Run:
