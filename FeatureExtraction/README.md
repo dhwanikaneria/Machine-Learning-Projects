@@ -8,8 +8,10 @@ Setup:
 
 Language used: R
 R studio and R needs to be install in the machine.
+
 R studio : https://www.rstudio.com/products/rstudio/download/
+
 R : https://cran.r-project.org/mirrors.html
 
-Input : [crime.csv]()
+Input : [crime.csv](https://github.com/dhwanikaneria/Machine-Learning-Projects/blob/master/FeatureExtraction/crime.csv)
 
