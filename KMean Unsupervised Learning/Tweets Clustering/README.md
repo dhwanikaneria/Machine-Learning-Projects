@@ -46,8 +46,10 @@ After this output will be generated in Out.txt file.
 Inputs to your K-means Algorithm: 
 
 (1) The number of clusters K (default to K=25). 
+
 (2) A real world dataset sampled from Twitter during the Boston Marathon Bombing event in April 2013 that contains 251 tweets. The tweet dataset is in JSON format and can be downloaded from [dataset](https://github.com/dhwanikaneria/Machine-Learning-Projects/blob/master/KMean%20Unsupervised%20Learning/Tweets%20Clustering/Tweets.json)
-(3) The list of initial centroids can be downloaded from:[Initial centroids](https://github.com/dhwanikaneria/Machine-Learning-Projects/blob/master/KMean%20Unsupervised%20Learning/Tweets%20Clustering/InitialSeeds.txt)
+
+(3) The list of initial centroids can be downloaded from: [Initial centroids](https://github.com/dhwanikaneria/Machine-Learning-Projects/blob/master/KMean%20Unsupervised%20Learning/Tweets%20Clustering/InitialSeeds.txt)
 
 Note that each element in this list is the tweet ID (i.e., the id field in JSON format) of the tweet in the dataset.
 
